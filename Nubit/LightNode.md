@@ -37,6 +37,7 @@ curl -sL1 https://nubit.sh | bash
 ```shell
 /root/nubit-node/bin/nkey add my_nubit_key --recover --p2p.network nubit-alphatestnet-1 --node.type light
 ```
+## 🟢 Servis oluşturma:
 ```shell
 sudo tee /etc/systemd/system/nubitd.service > /dev/null <<EOF
 [Unit]
