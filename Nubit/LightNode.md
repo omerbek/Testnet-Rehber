@@ -15,11 +15,13 @@
 | RAM	| 4 GB |
 | Storage	| 40++ GB SSD |
 
+## 🟢 Nubit dashboard:
 
+```shell
+https://alpha.nubit.org/
+```
 
-
-
-## 🟢 Genel Sunucu Güncellemeri
+## 🟢 Genel Sunucu Güncellemeleri
 
 
 ```shell
