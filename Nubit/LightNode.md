@@ -57,8 +57,9 @@ LimitNOFILE=65535
 WantedBy=multi-user.target
 EOF
 ```
+
+## 🟢 Servis başlatalım.
 ```shell
-```
 sudo systemctl daemon-reload
 ```
 ```shell
